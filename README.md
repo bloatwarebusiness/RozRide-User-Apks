@@ -1,2 +1,16 @@
-# RozRide-User-Apks
-RozRide User APK lets users easily book taxi, auto, and bike rides with a fast and simple interface. The app includes real-time booking, ride tracking, previous booking history, and total cost summary in the activity section, ensuring transparent pricing and a smooth, reliable travel experience.
+# nagola
+
+Drive application
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
